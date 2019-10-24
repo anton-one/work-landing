@@ -1,0 +1,26 @@
+* {
+	font-family: 'Lora', serif;
+}
+
+.head {
+	height: 100vh;
+	background-color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.head__inner {
+	text-align: center;
+}
+
+.head__title {
+	color: #000;
+	font-size: 60px;
+	margin-bottom: 15px;
+}
+
+.head__subtitle {
+	color: #000;
+	font-size: 44px;
+}
